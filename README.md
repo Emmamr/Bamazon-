@@ -5,5 +5,5 @@
 
  ##The following screenshots will show the application in action. 
 
- ![Image step 1](./images/img1bamazon.png)
+ ![Image step 1](./images/img%201%20bamazon.png)
 
